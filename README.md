@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Ari</h1>
 <h3 align="center">Hobbyist and student that makes things related to robots</h3>
 
-- 🔭 I’m currently working on **Hexpad**
+- 🔭 I’m currently working on **Hexpad, small 6 key macropad**
 
 - 🌱 I’m currently learning **Kicad, Python, Java, Onshape**
 
