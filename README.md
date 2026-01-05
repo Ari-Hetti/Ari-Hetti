@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Hexpad, small 6 key macropad**
 
-- 🌱 I’m currently learning **Kicad, Python, Java, Onshape**
+- 🌱 I’m currently learning **Kicad, Python, Java, Onshape, WPILib**
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/Ari-Hetti)
 
